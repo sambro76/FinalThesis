@@ -1,0 +1,6 @@
+<script language=vbscript runat=server>
+sub Application_onEnd
+	Application.Contents.removeall
+	Session.Abandon()
+end sub
+</script>

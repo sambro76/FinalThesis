@@ -1,0 +1,115 @@
+.thw12pt
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma
+}
+.thw11pt
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma
+}
+.thw10pt
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: #ffffff;
+    FONT-FAMILY: Tahoma
+}
+.thb10pt
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: black;
+    FONT-FAMILY: Tahoma
+}
+.tdb10pt
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10pt;
+    COLOR: black;
+    FONT-FAMILY: Tahoma
+}
+A:link
+{
+    COLOR: #0000cd
+}
+A:hover
+{
+    COLOR: #ffa500;
+    TEXT-DECORATION: underline
+}
+A:visited
+{
+    COLOR: purple
+}
+.headeng
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14pt;
+    COLOR: #6666ff;
+    FONT-FAMILY: Tahoma
+}
+.headkh
+{
+    FONT-WEIGHT: 500;
+    FONT-SIZE: 36pt;
+    COLOR: #000080;
+    FONT-FAMILY: 'Kounthea R1'
+}
+.subtitle
+{
+    FONT-WEIGHT: lighter;
+    FONT-SIZE: 8pt;
+    COLOR: #0000ff;
+    FONT-FAMILY: Tahoma;
+    TEXT-DECORATION: none
+}
+A
+{
+    COLOR: #336699;
+    TEXT-DECORATION: none
+}
+.td10pt
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10pt;
+    COLOR: #0000cd;
+    FONT-FAMILY: Tahoma
+}
+.td10ptb
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 10pt;
+    COLOR: #0000cd
+}
+.td10login
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: darkorchid;
+    FONT-FAMILY: Tahoma
+}
+.tx11pt
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 11pt;
+    COLOR: blue;
+    FONT-FAMILY: Tahoma
+}
+.tx12pt
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12pt;
+    COLOR: #fa8072;
+    FONT-FAMILY: Tahoma
+}
+.tdv10pt
+{
+    FONT-SIZE: 10pt;
+    COLOR: #0000cd;
+    FONT-FAMILY: Verdana
+}
